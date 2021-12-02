@@ -1,2 +1,3 @@
 # calculator
-i made this calculator project for practice
+i made this calculator project for practice purposes.
+hehe
